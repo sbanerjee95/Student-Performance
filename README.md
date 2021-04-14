@@ -1,6 +1,8 @@
 # Student-Performance
 Author: Subhajit Banerjee
 
+![Item-Analysis-175192112-1440x960](https://user-images.githubusercontent.com/17608830/114755902-c8c5b000-9d77-11eb-9516-c9908e30f8d9.jpg)
+
 ### Introduction: 
 This is a student grade analysis model for Maths & Portugese depending on various students' demographic & non-demographic datas.
 
@@ -18,5 +20,5 @@ This is a student grade analysis model for Maths & Portugese depending on variou
 * Logistic Regression
 
 ### Accuracy score:
-* Maths : 0.86
+* Maths : 0.89
 * Portugese : 0.94
